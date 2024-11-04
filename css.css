@@ -17,6 +17,12 @@ body {
     flex-direction: column;
     gap: 20px;
 }
+.img{
+    width:150px;
+    height:100px;
+    display :flex;
+}
+
 
 .bin {
     width: 150px;
@@ -38,6 +44,6 @@ body {
 .item {
     background-color: #ffeb3b;
     padding: 10px;
-    cursor: grab;
+    cursor: 00grab;
     border-radius: 5px;
 }
