@@ -1,2 +1,2 @@
 # game
-https://madalina2003.github.io/game/html/recycling.html
+https://madalina2003.github.io/game/recycling.html
